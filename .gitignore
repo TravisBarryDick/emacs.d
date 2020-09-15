@@ -1,0 +1,8 @@
+*.elc
+/straight/**
+!/straight/versions/
+!/straight/versions/**
+/var/
+/etc/
+/auto-save-list/
+/eshell/
